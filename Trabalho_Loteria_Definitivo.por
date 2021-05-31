@@ -82,7 +82,7 @@ programa
                leia(dezenas)
                
                se(dezenas < 15 ou dezenas >20){
-               escreva(" você só pode escolher entre 15 e 25 dezenas ")
+               escreva(" você só pode escolher entre 15 e 20 dezenas ")
                }
 
                senao{
